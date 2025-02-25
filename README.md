@@ -1,1 +1,1 @@
-# nexysa7100tspiflashpico
+# pico interface with quad spi flash onboard the nexysA7100t fpga through pmod header JA, this is a base framework for flashing the spi flash externally and then having the fpga boot from flash, this will be soon interfaced with the LoRa sx1278 spi modules on the picos to flash the fpga remotely
